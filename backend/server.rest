@@ -1,0 +1,10 @@
+GET http://localhost:5000/api/goals
+
+###
+POST  http://localhost:5000/api/goals
+
+###
+PUT http://localhost:5000/api/goals/1
+
+###
+DELETE  http://localhost:5000/api/goals/1
